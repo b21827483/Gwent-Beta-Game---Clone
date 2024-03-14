@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6b12eb93bf82f544ca79ca428d00faa6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - card1: {fileID: 3021024443638076976, guid: bf4200c3d4d076242bf09bbef4e90e20, type: 3}
+  - card2: {fileID: 3901727140064866170, guid: 6cbf2c73ef50adb4f86a25702730df81, type: 3}
+  - card3: {fileID: 3652490252915732454, guid: c4ddc337d121db84bb7136dddc81fc31, type: 3}
+  - card4: {fileID: 8190975816621141180, guid: 41ae1284ec70d6d4ab87ae24057abd68, type: 3}
+  - playerArea: {instanceID: 0}
+  - enemyArea: {instanceID: 0}
+  - PlayerDropZone: {instanceID: 0}
+  - PDZMeleeRow: {instanceID: 0}
+  - PDZRangedRow: {instanceID: 0}
+  - EnemyDropZone: {instanceID: 0}
+  - PlayerDeck: {instanceID: 0}
+  - EnemyDeck: {instanceID: 0}
+  - PlayerHandTextNo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 35a62d1739b2013419023c4d985ed278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9104302948337374837
+    second: ValueTextureAtlas_0
+  - first:
+      213: -4176996867635871007
+    second: ValueTextureAtlas_1
+  - first:
+      213: -565315613386212815
+    second: ValueTextureAtlas_2
+  - first:
+      213: -2376133687464068223
+    second: ValueTextureAtlas_3
+  - first:
+      213: 1175021554009856093
+    second: ValueTextureAtlas_4
+  - first:
+      213: 6681997660438392582
+    second: ValueTextureAtlas_5
+  - first:
+      213: -2489207077407936028
+    second: ValueTextureAtlas_6
+  - first:
+      213: 5574874048727691668
+    second: ValueTextureAtlas_7
+  - first:
+      213: 6181706099229119222
+    second: ValueTextureAtlas_8
+  - first:
+      213: 1436675599231003155
+    second: ValueTextureAtlas_9
+  - first:
+      213: -4977407683088904352
+    second: ValueTextureAtlas_10
+  - first:
+      213: 7770391514736902609
+    second: ValueTextureAtlas_11
+  - first:
+      213: -6575692037443748873
+    second: ValueTextureAtlas_12
+  - first:
+      213: -1892090629606802425
+    second: ValueTextureAtlas_13
+  - first:
+      213: -683360497536491538
+    second: ValueTextureAtlas_14
+  - first:
+      213: 5932139457976195993
+    second: ValueTextureAtlas_15
+  - first:
+      213: 5425517269243918341
+    second: ValueTextureAtlas_16
+  - first:
+      213: 3861801133624704801
+    second: ValueTextureAtlas_17
+  - first:
+      213: -195234149132697631
+    second: ValueTextureAtlas_18
+  - first:
+      213: 408935978749982935
+    second: ValueTextureAtlas_19
+  - first:
+      213: -3379673744113040108
+    second: ValueTextureAtlas_20
+  - first:
+      213: 6646170099160883311
+    second: ValueTextureAtlas_21
+  - first:
+      213: 7114133818316517060
+    second: ValueTextureAtlas_22
+  - first:
+      213: 6028466240893504772
+    second: ValueTextureAtlas_23
+  - first:
+      213: -832189936224444230
+    second: ValueTextureAtlas_24
+  - first:
+      213: 8357012632954977161
+    second: ValueTextureAtlas_25
+  - first:
+      213: -5879129701495495846
+    second: ValueTextureAtlas_26
+  - first:
+      213: -295037053334383974
+    second: ValueTextureAtlas_27
+  - first:
+      213: -8135815021990241689
+    second: ValueTextureAtlas_28
+  - first:
+      213: -568759647189679904
+    second: ValueTextureAtlas_29
+  - first:
+      213: -5806768228455324032
+    second: ValueTextureAtlas_30
+  - first:
+      213: -5845367090049124411
+    second: ValueTextureAtlas_31
+  - first:
+      213: 850029389174193863
+    second: ValueTextureAtlas_32
+  - first:
+      213: 8738426346479501157
+    second: ValueTextureAtlas_33
+  - first:
+      213: 455900532311580416
+    second: ValueTextureAtlas_34
+  - first:
+      213: -3435643461243247852
+    second: ValueTextureAtlas_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ValueTextureAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892fc484b407a180800000000000000
+      internalID: -9104302948337374837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 360
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af12ed1789728f0800000000000000
+      internalID: -565315613386212815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 345
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d585f2ab0e38e4010800000000000000
+      internalID: 1175021554009856093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 360
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60feb6c28793bbc50800000000000000
+      internalID: 6681997660438392582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 346
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e136baf95f847dd0800000000000000
+      internalID: -2489207077407936028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 361
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49135fd096eed5d40800000000000000
+      internalID: 5574874048727691668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 345
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa2ad78d810f310800000000000000
+      internalID: 1436675599231003155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 326
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14a91d9e9f5db60800000000000000
+      internalID: 7770391514736902609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 326
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf07bd891fdb5e0800000000000000
+      internalID: -1892090629606802425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f704f53f4b4b40800000000000000
+      internalID: 5425517269243918341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 219
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb6ea9bafd79530800000000000000
+      internalID: 3861801133624704801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 219
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7be463936a4df0800000000000000
+      internalID: -195234149132697631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f4452b15dca500800000000000000
+      internalID: 408935978749982935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 219
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158d61d2acf811d0800000000000000
+      internalID: -3379673744113040108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 219
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ae450e70fb3c50800000000000000
+      internalID: 6646170099160883311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 219
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce6955f30b7ab260800000000000000
+      internalID: 7114133818316517060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 219
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d44ec1b1a69a350800000000000000
+      internalID: 6028466240893504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 219
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7fcd70a9511eea0800000000000000
+      internalID: -5845367090049124411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cebe5ec939ebcb00800000000000000
+      internalID: 850029389174193863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 109
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f33d5c670254970800000000000000
+      internalID: 8738426346479501157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd7516e1fa35600800000000000000
+      internalID: 455900532311580416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 112
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e3bd89742250d0800000000000000
+      internalID: -3435643461243247852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 109
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b32a1ee2a5a4710800000000000000
+      internalID: 1678252968549432064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 112
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a5a0147e51a1680800000000000000
+      internalID: -8783684040259904915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 112
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9836dda5599850180800000000000000
+      internalID: -9149755793365703799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 109
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcec84e5c81f7310800000000000000
+      internalID: 1404868846984948986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899bedcbac24f970800000000000000
+      internalID: 8787697889312479620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c618444540866d0800000000000000
+      internalID: -2997140792041968549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4163528b0d26d5b0800000000000000
+      internalID: -5344034380374122165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baf8187ccad702d0800000000000000
+      internalID: -3312438429184623945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87c7381d0b230d0800000000000000
+      internalID: -3444496351084382025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7804b0d55f1be0800000000000000
+      internalID: -1504389395656441887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb18669f7a67b680800000000000000
+      internalID: -8739399455672362047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 113
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52028c455eef20c0800000000000000
+      internalID: -4598194644398767525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 6
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062164f620f86b630800000000000000
+      internalID: 3942495764429017696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValueTextureAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 7
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c121f0aa72e140800000000000000
+      internalID: 4747491788860802996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
